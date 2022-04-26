@@ -1,7 +1,10 @@
 # 100 Apples
 Do you like apples? 🍎 Then 1 apple is not enough!!
+
 In this game, you can collect 100 apples. But...
+
 A venomous snake appears at random positions. 🐍
+
 Beware of it. You've been warned!
 
 ![enter image description here](https://i.ibb.co/f0pppD4/100-apples-cover-photo.png)
