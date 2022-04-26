@@ -13,10 +13,15 @@ Beware of it. You've been warned!
 
 ## How to Play?
 Your goal is to collect 100 apples. You should avoid the snake that appears at random positions.
+
 **Controls**
+
 Left - Move left
+
 Right - Move right
+
 Up - Move up
+
 Down - Move down
 ## Screenshots
 ![enter image description here](https://i.ibb.co/fS1xcVq/ss1.png)
